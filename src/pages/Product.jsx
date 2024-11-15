@@ -17,9 +17,8 @@ export default function Product() {
             TravelTracker you can plan your trip or save your travel memories.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Plan your trip by checking hotels and flights and next then add your
+            destination to your list places to visit.
           </p>
         </div>
       </section>

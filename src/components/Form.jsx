@@ -79,6 +79,13 @@ function Form() {
     navigate("/app/cities");
   }
 
+  function handlePlanTravel(e) {
+    e.preventDefault();
+    navigate(
+      `/app/plan?city=${cityName}&country=${country}&countryCode=${emoji}`
+    );
+  }
+
   if (isLoadingGeocoding) return <Spinner />;
 
   if (!lat && !lng)
@@ -123,6 +130,9 @@ function Form() {
 
       <div className={styles.buttons}>
         <Button type="primary">Add</Button>
+        <Button onClick={handlePlanTravel} type="primary">
+          Plan Travel
+        </Button>
         <BackButton />
       </div>
     </form>
