@@ -7,6 +7,7 @@ Features:
 - pin places on the map
 - fill information about place which you visited
 - search additional information about your visited places
+- plan your place of stay and check flights
 
 ## This project is build with:
 
