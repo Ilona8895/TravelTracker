@@ -23,6 +23,10 @@ Features:
 - useGeolocation
 - useUrlPosition
 
+## Used RESTful APIs
+
+- [BigData-reverse-geocoding](https://www.bigdatacloud.com/reverse-geocoding)
+
 ## React third-party packeges:
 
 - [React-router](https://reactrouter.com/en/main)
