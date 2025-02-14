@@ -1,3 +1,28 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "58ac",
+      "cityName": "Cetina",
+      "country": "Spain",
+      "date": "2025-01-21T08:53:54.519Z",
+      "notes": "eege",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "41.27780646738183",
+        "lng": "-1.9555664062500002"
+      }
+    },
+    {
+      "id": "d55f",
+      "cityName": "Saint-Mesmin",
+      "country": "France",
+      "date": "2025-01-21T08:54:04.644Z",
+      "notes": "vssdfsdf",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "45.3521452458518",
+        "lng": "1.2304687500000002"
+      }
+    }
+  ]
 }
