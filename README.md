@@ -9,10 +9,6 @@ Features:
 - search additional information about your visited places
 - plan your place of stay and check flights
 
-## App deploy on Vercel:
-
-[Travel Tracker](https://travel-tracker-liart.vercel.app/)
-
 ## This project is build with:
 
 - React
